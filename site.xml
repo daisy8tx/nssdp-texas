@@ -1,0 +1,1868 @@
+<site>
+  <preference key="PictureElement.path" value="C:\Users\Patricia Martin\Documents\Documents\NSSDP--TexasBranch\WebsitePics"/>
+  <preference key="PublishAction.localPath" value="/"/>
+  <preference key="LinkChooser.FileChooser.path" value="C:\Users\Patricia Martin\Documents\Documents\TexasBranch--NSSDP\WebsitePics"/>
+  <preference key="OpenAction.page.path" value="C:\Users\Patricia Martin\sitebuilder\sites\NSSDP-Texas-2018"/>
+  <preference key="PublishAction.time" value="1611697818985"/>
+  <preference key="OpenPageAction.recent" value="C:\Users\Patricia Martin\sitebuilder\sites\NSSDP-Texas-2018\Officers.html|C:\Users\Patricia Martin\sitebuilder\sites\NSSDP-Texas-2018\History.html|C:\Users\Patricia Martin\sitebuilder\sites\NSSDP-Texas-2018\Membership.html|C:\Users\Patricia Martin\sitebuilder\sites\NSSDP-Texas-2018\Purpose.html|C:\Users\Patricia Martin\sitebuilder\sites\NSSDP-Texas-2018\Meetings.html"/>
+  <preference key="PublishAction.allFiles" value="0"/>
+  <preference key="PublishAction.remotePath" value=""/>
+  <preference key="FilestoreFactory.webSite" value="us.6.p9"/>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/images">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gray/mouseOver.gif">
+    <published date="1519777355010" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder">
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gray/inactive.gif">
+    <published date="1519777356651" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%VirtualLocalImageAsset:/clipart/buttons/themes/gray/active.gif">
+    <published date="1519777356869" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/files">
+  </asset>
+  <asset id="%LocalAsset:/files/NSSDP--ApplicationProcedures--2016.pdf">
+    <published date="1519777374979" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777374000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%LocalAsset:/files/nssdp_application_form_rev_6-12-15f.pdf">
+    <published date="1519777379916" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777379000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%LocalAsset:/files/Pilgrim_Instructions_7_Jul2015_JG_2_--FROMJULIE--NOFEES.pdf">
+    <published date="1519777374463" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777374000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%PageAssetImpl:/History.html">
+    <published date="1569527314561" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1569527329000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2018--JanMeeting--4ladies.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-8-349x238.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-422x1728.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2018--DianeDyess_StaceyBrowning.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2016--SeptMeeting--6.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Meeting--LadyDemostratesSpinningWheel-133x164.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009--LloydBockstruck--Nov17-2009--ThanksgivingGathering-357x261.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x1889.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/images/DSSDP--Insignia--StaceyBrowning.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x1920.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2009--LloydBockstruck--Nov17-2009--ThanksgivingGathering.jpg"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/images/Meeting--LadyDemostratesSpinningWheel.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/DSSDP--Insignia--StaceyBrowning-120x270.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting--6-131x167.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2016--SeptMeeting-8.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018--JanMeeting--4ladies-360x236.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018--DianeDyess_StaceyBrowning-131x170.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/History_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/images">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/1-SharonAllen-Gov-5-16-2023.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2-NEWOfficers-2023-2025.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2009--LloydBockstruck--Nov17-2009--ThanksgivingGathering.jpg">
+    <published date="1519777367354" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777367000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2011--KarenMiller-Registrar--newMembersJoAnnBowman-DeniseCervantes_LizPierce.jpg">
+    <published date="1519777359885" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777359000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2011-BranchOfficers--Karen--Carol--Beverly--Pat--Ann-Hallie--Barbara--Karen.jpg">
+    <published date="1519777362229" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777362000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2011-RichardReimerAsMarkTwain--Feb26Meeting.jpg">
+    <published date="1519777363729" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777363000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2013-2015-BranchBoardofOfficers.jpg">
+    <published date="1519777356651" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777356000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2015--May26--BranchOfficers-Pic.jpg">
+    <published date="1519777354369" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777354000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2015--MayMeetingGovernorAnnFowler_GovGeneralBetsyJones.jpg">
+    <published date="1519777358401" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777358000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting--4.jpg">
+    <published date="1519777354088" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777353000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting--6.jpg">
+    <published date="1519777355010" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777354000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting--StaceyBrowningInsignia.jpg">
+    <published date="1519777353682" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777353000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting-10-MaryluMcKellar_StaceyBrowning.jpg">
+    <published date="1519777353619" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777353000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting-10-MaryluMcKellar_StaceyBrowning2.jpg">
+    <published date="1519847991048" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519847992000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting-2.jpg">
+    <published date="1519777346557" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777346000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting-8.jpg">
+    <published date="1519777364729" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777364000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting-9--StaceyBrowning_JulieGustafson--BEST.jpg">
+    <published date="1519777356869" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777356000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2016--SeptMeeting-9--StaceyBrowning_JulieGustafson.jpg">
+    <published date="1519777344041" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777343000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2017--Conference--May30--Group.jpg">
+    <published date="1519777343432" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777343000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2017--PeggyAnderson--PORTRAIT-1--B.jpg">
+    <published date="1519856214111" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519856215000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2017--PeggyAnderson_Officer-Members-Conference.jpg">
+    <published date="1519777363682" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777363000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2017-2019--BranchOfficers--Photo--COLOR--BEST--withPamela.jpg">
+    <published date="1526419255173" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419251000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2017-2019--BranchOfficers--Photo--COLOR--BEST.jpg">
+    <published date="1519777368682" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777368000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2017-2019--BranchOfficers--Photo--COLOR.jpg">
+    <published date="1519777332822" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777332000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2018--DianeDyess_StaceyBrowning.jpg">
+    <published date="1519848431082" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848432000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2018--JanMeeting--4ladies.jpg">
+    <published date="1519848434862" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848436000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2018--PresenterOnWWII_WASP-WomenPilots5-15-2018.jpg">
+    <published date="1526419244954" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419241000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2018-JanMeeting-2.jpg">
+    <published date="1519777328978" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777328000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2018-JanMeeting-3.jpg">
+    <published date="1519777303447" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777303000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2019--May--IMG_9499.jpg">
+    <published date="1564078792824" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564078794000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2019--May--IMG_9508.JPG">
+    <published date="1564078785461" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564078786000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2019--May--IMG_9514--PeggyAnderson--PastGovPin--WEB.jpg">
+    <published date="1564078795739" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564078796000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2019--May--IMG_9514--PeggyAnderson--PastGovPin.jpg">
+    <published date="1564078770904" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564078772000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2019--May--IMG_9517--InstallNewOfficers--WEB.jpg">
+    <published date="1564078793038" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564078794000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2019--May-NewGovernorCervantes--IMG_9511--WEB.jpg">
+    <published date="1564078791785" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564078793000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2019-2021--BranchOfficers2019-2021--C.jpg">
+    <published date="1568841907552" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841907000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20230516_110352.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20240326_110850.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20240521_112846.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20240521_112916.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20240521_114923.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20240521_114955.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20240521_124535.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20240521_124559.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/20240521_132346.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/3-NEWOfficers-2023-2025--3.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/3-Sharon_SandyWithGavel.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/397413839_10227861325176984_1787748594645492744_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/397876780_10227861311336638_4186682377137391616_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/398607278_7056777691046914_7357895687642342657_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/398611858_7056777991046884_6260996777555988766_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/398630150_7056778181046865_4975369577279310808_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/398653918_10227861309176584_794561426848466115_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/400833034_7056776037713746_4650245209634608366_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/400854407_7056775901047093_909520827347510282_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/400900175_7056777167713633_2641725321642799820_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/445608510_10228878700330727_2522516831640068631_n.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70257859_2620991197958941_8653415355391148032_n.jpg">
+    <published date="1568841891615" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841891000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70286124_2620990361292358_401344730803208192_n.jpg">
+    <published date="1568841877987" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841877000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70313766_2620991377958923_5877804916583432192_n.jpg">
+    <published date="1568841876971" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841876000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70387434_2620991301292264_7601554225100750848_n.jpg">
+    <published date="1568841876815" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841876000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70389156_2620991511292243_4315766942146232320_n.jpg">
+    <published date="1568841880487" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841880000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70510199_2620990571292337_6546807181730119680_n.jpg">
+    <published date="1568841876497" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841875000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70691512_2620991137958947_4137598972720054272_n.jpg">
+    <published date="1568841878518" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841878000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70898628_2620991064625621_4107036324744134656_n.jpg">
+    <published date="1568841880143" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841879000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/70917379_2620990307959030_9005225695793643520_n.jpg">
+    <published date="1568841872310" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841872000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/71325050_2620990754625652_5799859905930199040_n.jpg">
+    <published date="1568841871091" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841870000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/82940561_10218438679616734_5813652214148759552_n.jpg">
+    <published date="1580163124968" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163125000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/83478732_10218438676816664_1562237437013393408_n.jpg">
+    <published date="1580163116757" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163117000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/83696119_10218438655336127_5940082350397325312_n.jpg">
+    <published date="1580163118012" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163118000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/83756231_10218438666056395_3375403424853000192_n.jpg">
+    <published date="1580163110692" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163111000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Alderman--Bassett--Allen--Cervantes.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/BarbaraChesney_StaceyBrowning--5-15-2018--ParkCityClub.jpg">
+    <published date="1526419217219" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419213000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/BlueBox--1.jpg">
+    <published date="1564072429806" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072430000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/BranchOfficers2019-2021--B.jpg">
+    <published date="1563830292286" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1563830305000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/BranchOfficers2019-2021.jpg">
+    <published date="1558553258553" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1558553262000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Couple-1.jpg">
+    <published date="1580163131654" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163132000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/CreamColoredBox--1.jpg">
+    <published date="1519777338619" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777338000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/DeniseCervanes--BranchGov--2019-2021.jpg">
+    <published date="1558553249708" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1558553253000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/DeniseCervantes--BranchGov--2019-2021--BEST--WEB.jpg">
+    <published date="1564436709379" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564436712000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/DianeCervantes_SandyBassett--5-2019.jpg">
+    <published date="1558553249896" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1558553253000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/DSSDP--Insignia--StaceyBrowning.jpg">
+    <published date="1519777308994" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777308000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Group1.jpg">
+    <published date="1526419791539" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419787000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Group2.jpg">
+    <published date="1526419255001" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419251000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Group3.jpg">
+    <published date="1526419253126" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419249000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/GroupofLadies--2.jpg">
+    <published date="1580163134393" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163135000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/GroupShot--1.jpg">
+    <published date="1568841898478" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841898000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/InsigniaOnRibbon--NSSDP--Thin.jpg">
+    <published date="1519777280165" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777280000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/InsigniaOnRibbon--NSSDP.jpg">
+    <published date="1519777301213" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777301000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Ja_JamesAlderman.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/JulieGustafson-1.jpg">
+    <published date="1519847570046" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519847571000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/LadiesAtMeeting.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/LindaJuba--BEST.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg">
+    <published date="1564072429076" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072430000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER.jpg">
+    <published date="1519777310181" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777310000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque.jpg">
+    <published date="1519777340650" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777340000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/MedalOfHonor--GroupMeetingPhoto-2.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Meeting--LadyDemostratesSpinningWheel.jpg">
+    <published date="1519777283884" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777283000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/MichaelHurleySpeaks--9-19-2023.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg">
+    <published date="1519777370307" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777370000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/NSSDP--Meeting--PeggyAnderson_Husband.jpg">
+    <published date="1519777341822" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777341000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/OrangeBox--1.jpg">
+    <published date="1519777338994" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777338000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/PatriciaMartin--Webmaster.jpg">
+    <published date="1519856215656" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519856217000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/PeggyAnderson-2.jpg">
+    <published date="1519846772563" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519846774000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/PeggyAndersonatMay2019Meeting--OutgoingBranchGovernor.jpg">
+    <published date="1558553254817" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1558553258000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/PeggyAnderson_PatriciaMartin.jpg">
+    <published date="1526419255391" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419251000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/PilgrimPresentation--Nov19.jpg">
+    <published date="1580163127976" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163128000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Pilgrims--inHarbour.jpg">
+    <published date="1519777302759" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777302000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Pilgrims--Thanksgiving--1620.jpeg">
+    <published date="1519777278431" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777278000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/PilgrimThanksgiving--2.jpg">
+    <published date="1519777281353" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777281000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/RichardMcCook.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/RollinPhipps--Presenter.jpg">
+    <published date="1568841896367" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841896000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/RollinPhipps_DeniseCervantes--Governor.jpg">
+    <published date="1568841902938" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841902000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SandyBasset-1.jpg">
+    <published date="1611694242979" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1611694241000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SandyBassett--3.jpg">
+    <published date="1611694231037" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1611694230000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SandyBassett_.jpg">
+    <published date="1580163134887" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163135000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SandyWithPlaque.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Sandy_SharonAllen9-19-2023.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SharonAllen--JennyPage--JamesAlderman--3-26-2024.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SharonAllen_SandyBassett.jpg">
+    <published date="1568841891006" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841890000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SharonAllen_WilliamCovington--11-14-2023.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SharonTaylorAllen--May2024-BEST.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SharonTaylorAllen--May2024-BEST2.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/SpeakerAtThanksgiving.jpg">
+    <published date="1580163115294" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163116000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/ToniWirth--SandyBassett--CarollHooper--BEST-2.jpg">
+    <published date="1519848912771" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848914000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/ToniWirth--SandyBassett--CarollHooper.jpg">
+    <published date="1519777288572" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777288000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/ToniWirth.jpg">
+    <published date="1580163133248" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163134000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Treasurer_President.jpg">
+    <published date="1580163124307" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163125000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Untitled-1.jpg">
+    <published date="1580163131704" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163132000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Untitled-12.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/ValerieLaskowski--2017.jpg">
+    <published date="1519777236743" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777236000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/WhiteBox--1.jpg">
+    <published date="1519777301150" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777301000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%PageAssetImpl:/index-2.html">
+    <published date="1564072416436" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072424000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x453.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x1933.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x204.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x71.jpg"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2017--PeggyAnderson_Officer-Members-Conference.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2017--PeggyAnderson_Officer-Members-Conference-300x230.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Pilgrims--Thanksgiving--1620-419x252.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x1898.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2016--SeptMeeting-10-MaryluMcKellar_StaceyBrowning.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Pilgrims--Thanksgiving--1620.jpeg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-10-MaryluMcKellar_StaceyBrowning-241x227.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/index-2_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/index.html">
+    <published date="1611694639534" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1611694642000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/images/2016--SeptMeeting-10-MaryluMcKellar_StaceyBrowning2.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-10-MaryluMcKellar_StaceyBrowning2-230x218.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/20240521_112846-245x162.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Sandy_SharonAllen9-19-2023.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/20240521_112916-199x143.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/images/20240521_114955.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x83.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-607x2241.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Ja_JamesAlderman.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x71.jpg"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x455.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Pilgrims--Thanksgiving--1620-422x273.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2017--PeggyAnderson_Officer-Members-Conference.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Untitled-12.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/20240521_114955-121x156.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Ja_JamesAlderman-142x149.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/20240521_112846.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Pilgrims--Thanksgiving--1620.jpeg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Sandy_SharonAllen9-19-2023-187x144.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/images/20240521_112916.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2279.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x58.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2017--PeggyAnderson_Officer-Members-Conference-295x224.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x208.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Untitled-12-129x159.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/index_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/MeetingPics.html">
+    <published date="1580164574426" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580164580000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/3-Sharon_SandyWithGavel-257x193.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/82940561_10218438679616734_5813652214148759552_n-181x252.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/83478732_10218438676816664_1562237437013393408_n-156x191.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/images/70313766_2620991377958923_5877804916583432192_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/LadiesAtMeeting-244x138.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/images/1-SharonAllen-Gov-5-16-2023.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/SharonAllen_SandyBassett-184x139.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2019--May--IMG_9514--PeggyAnderson--PastGovPin--WEB.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2019--May--IMG_9517--InstallNewOfficers--WEB-540x223.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/SandyWithPlaque-208x265.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/GroupShot--1-229x161.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-249x23.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Untitled-1-228x123.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/SandyWithPlaque.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/RollinPhipps_DeniseCervantes--Governor.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2019--May--IMG_9499.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2960.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-277x23.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-272x24.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2019--May--IMG_9514--PeggyAnderson--PastGovPin--WEB-228x178.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Alderman--Bassett--Allen--Cervantes.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/SpeakerAtThanksgiving.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-607x2936.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/83756231_10218438666056395_3375403424853000192_n-119x171.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/70917379_2620990307959030_9005225695793643520_n.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/70313766_2620991377958923_5877804916583432192_n-166x131.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-298x24.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/PilgrimPresentation--Nov19.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/images/ToniWirth.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Alderman--Bassett--Allen--Cervantes-298x216.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/SharonAllen_SandyBassett.jpg"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%ImageAssetImpl:/images/Treasurer_President.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/83696119_10218438655336127_5940082350397325312_n-214x294.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/images/82940561_10218438679616734_5813652214148759552_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2019--May-NewGovernorCervantes--IMG_9511--WEB.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Treasurer_President-189x153.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Untitled-1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Couple-1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/70691512_2620991137958947_4137598972720054272_n-133x182.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/71325050_2620990754625652_5799859905930199040_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/DianeCervantes_SandyBassett--5-2019.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/71325050_2620990754625652_5799859905930199040_n-177x208.jpg"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/images/70389156_2620991511292243_4315766942146232320_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/GroupofLadies--2-226x169.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/1-SharonAllen-Gov-5-16-2023-133x175.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/PilgrimPresentation--Nov19-275x201.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/70898628_2620991064625621_4107036324744134656_n-230x148.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2019--May--IMG_9508-228x160.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/70917379_2620990307959030_9005225695793643520_n-183x135.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/LadiesAtMeeting.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/GroupShot--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/SpeakerAtThanksgiving-134x118.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2019--May--IMG_9517--InstallNewOfficers--WEB.jpg"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/70389156_2620991511292243_4315766942146232320_n-248x208.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/DianeCervantes_SandyBassett--5-2019-138x219.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/83696119_10218438655336127_5940082350397325312_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2019--May--IMG_9508.JPG"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/RollinPhipps_DeniseCervantes--Governor-182x216.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/70691512_2620991137958947_4137598972720054272_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/70257859_2620991197958941_8653415355391148032_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%ImageAssetImpl:/images/70898628_2620991064625621_4107036324744134656_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2019--May-NewGovernorCervantes--IMG_9511--WEB-188x178.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/ToniWirth-192x232.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Couple-1-162x137.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/images/GroupofLadies--2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-348x23.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/83756231_10218438666056395_3375403424853000192_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2019--May--IMG_9499-396x176.jpg"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/images/3-Sharon_SandyWithGavel.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/PeggyAndersonatMay2019Meeting--OutgoingBranchGovernor-172x233.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/PeggyAndersonatMay2019Meeting--OutgoingBranchGovernor.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/70257859_2620991197958941_8653415355391148032_n-222x147.jpg"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%ImageAssetImpl:/images/83478732_10218438676816664_1562237437013393408_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/MeetingPics_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/MeetingPics2.html">
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/20240326_110850-128x91.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Sandy_SharonAllen9-19-2023.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/SharonTaylorAllen--May2024-BEST2-76x95.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/398630150_7056778181046865_4975369577279310808_n-108x100.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/20240521_124559-122x84.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/400854407_7056775901047093_909520827347510282_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/SharonAllen_WilliamCovington--11-14-2023-87x100.jpg"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-422x1728.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/images/398630150_7056778181046865_4975369577279310808_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x1889.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/20240521_124559.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/20240521_114923.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/398611858_7056777991046884_6260996777555988766_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/images/398653918_10227861309176584_794561426848466115_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/20240326_110850.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/398653918_10227861309176584_794561426848466115_n-63x89.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MedalOfHonor--GroupMeetingPhoto-2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/RichardMcCook-71x103.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MedalOfHonor--GroupMeetingPhoto-2-127x91.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/SharonAllen--JennyPage--JamesAlderman--3-26-2024-122x89.jpg"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2960.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/MichaelHurleySpeaks--9-19-2023.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/20240521_114923-105x85.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/MichaelHurleySpeaks--9-19-2023-74x99.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/SharonTaylorAllen--May2024-BEST2.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Sandy_SharonAllen9-19-2023-108x86.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/400854407_7056775901047093_909520827347510282_n-88x99.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%ImageAssetImpl:/images/SharonAllen_WilliamCovington--11-14-2023.jpg"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/398611858_7056777991046884_6260996777555988766_n-79x100.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%ImageAssetImpl:/images/SharonAllen--JennyPage--JamesAlderman--3-26-2024.jpg"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/images/RichardMcCook.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/MeetingPics2_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/Meetings.html">
+    <published date="1564096276186" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564096282000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting--4-132x183.jpg"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-422x1728.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x1889.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2016--SeptMeeting-2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x1920.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/PatriciaMartin--Webmaster-138x143.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-2-236x184.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2016--SeptMeeting--4.jpg"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%ImageAssetImpl:/images/ValerieLaskowski--2017.jpg"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/images/PatriciaMartin--Webmaster.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/ValerieLaskowski--2017-108x167.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Meetings_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/Membership.html">
+    <published date="1564072417498" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072420000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-422x1728.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--Meeting--PeggyAnderson_Husband-254x224.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x1889.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x1920.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/ToniWirth--SandyBassett--CarollHooper--BEST-2-276x315.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-9--StaceyBrowning_JulieGustafson--BEST-322x267.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/images/ToniWirth--SandyBassett--CarollHooper--BEST-2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018-JanMeeting-3-217x286.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/2018-JanMeeting-3.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%LocalAsset:/files/Pilgrim_Instructions_7_Jul2015_JG_2_--FROMJULIE--NOFEES.pdf"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2016--SeptMeeting-9--StaceyBrowning_JulieGustafson--BEST.jpg"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--Meeting--PeggyAnderson_Husband.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Membership_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/navigation_bars">
+  </asset>
+  <asset id="%PageAssetImpl:/Officers.html">
+    <published date="1611697806555" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1611697807000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/images/LindaJuba--BEST.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-550x343.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-425x285.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-555x370.jpg"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/images/2--SharonTaylorAllen--May2024-BEST.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/3-NEWOfficers-2023-2025--3-641x363.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/LindaJuba--BEST-168x228.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/InsigniaOnRibbon--NSSDP--Thin-68x200.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-555x255.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/images/3-NEWOfficers-2023-2025--3.jpg"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x2059.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-425x478.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2--SharonTaylorAllen--May2024-BEST-229x308.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%ImageAssetImpl:/images/InsigniaOnRibbon--NSSDP--Thin.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2088.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Officers_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/Photos.html">
+    <published date="1564096611836" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564096618000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/images/400900175_7056777167713633_2641725321642799820_n.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/2011-BranchOfficers--Karen--Carol--Beverly--Pat--Ann-Hallie--Barbara--Karen.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/ToniWirth--SandyBassett--CarollHooper--BEST-2-173x200.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/398607278_7056777691046914_7357895687642342657_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/397876780_10227861311336638_4186682377137391616_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2011-RichardReimerAsMarkTwain--Feb26Meeting-133x205.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BarbaraChesney_StaceyBrowning--5-15-2018--ParkCityClub-197x150.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-80x94.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/images/400833034_7056776037713746_4650245209634608366_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Group2-227x160.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018-JanMeeting-2-193x266.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2015--May26--BranchOfficers-Pic.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2011--KarenMiller-Registrar--newMembersJoAnnBowman-DeniseCervantes_LizPierce-236x217.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2013-2015-BranchBoardofOfficers.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2017--PeggyAnderson_Officer-Members-Conference-368x285.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2011--KarenMiller-Registrar--newMembersJoAnnBowman-DeniseCervantes_LizPierce.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Group1.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/20240521_124535-202x141.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2015--May26--BranchOfficers-Pic-569x234.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/PeggyAndersonatMay2019Meeting--OutgoingBranchGovernor-150x206.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/ToniWirth--SandyBassett--CarollHooper--BEST-2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/images/20240521_112846.jpg"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/20240521_112846-227x157.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2933.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Group3.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/398607278_7056777691046914_7357895687642342657_n-172x179.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/445608510_10228878700330727_2522516831640068631_n-141x182.jpg"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/400900175_7056777167713633_2641725321642799820_n-208x204.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Group3-232x163.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2013-2015-BranchBoardofOfficers-569x203.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Group1-264x186.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/20240521_124535.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2011-BranchOfficers--Karen--Carol--Beverly--Pat--Ann-Hallie--Barbara--Karen-379x185.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2015--MayMeetingGovernorAnnFowler_GovGeneralBetsyJones.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2018--PresenterOnWWII_WASP-WomenPilots5-15-2018-195x270.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/397876780_10227861311336638_4186682377137391616_n-193x246.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2011-RichardReimerAsMarkTwain--Feb26Meeting.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2015--MayMeetingGovernorAnnFowler_GovGeneralBetsyJones-187x136.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/400833034_7056776037713746_4650245209634608366_n-123x204.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/PeggyAnderson_PatriciaMartin-192x143.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2017--PeggyAnderson_Officer-Members-Conference.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x2903.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/PeggyAnderson_PatriciaMartin.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Group2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/2018--PresenterOnWWII_WASP-WomenPilots5-15-2018.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/images/2018-JanMeeting-2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/BarbaraChesney_StaceyBrowning--5-15-2018--ParkCityClub.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/PeggyAndersonatMay2019Meeting--OutgoingBranchGovernor.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%ImageAssetImpl:/images/445608510_10228878700330727_2522516831640068631_n.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Photos_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/Purpose.html">
+    <published date="1569527314561" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1569527326000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/images/MayflowerInDartmouthHarbour--TS--300dpi--50Opaque--SMALLER--B.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%ImageAssetImpl:/images/Pilgrims--inHarbour.jpg"/>
+    <refers-to id="%PageAssetImpl:/Purpose.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-422x1728.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x1889.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%ImageAssetImpl:/images/NSSDP--LOGO--INSIGNIA--300dpi.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x1920.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%ImageAssetImpl:/images/PilgrimThanksgiving--2.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Pilgrims--inHarbour-337x223.jpg"/>
+    <refers-to id="%PageAssetImpl:/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/images/BlueBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics.html"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg"/>
+    <refers-to id="%PageAssetImpl:/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/OrangeBox--1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%PageAssetImpl:/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%PageAssetImpl:/Officers.html"/>
+    <refers-to id="%ImageAssetImpl:/images/WhiteBox--1.jpg"/>
+    <refers-to id="%PageAssetImpl:/Meetings.html"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/PilgrimThanksgiving--2-374x222.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Purpose_html.png"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/1-SharonAllen-Gov-5-16-2023-133x175.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2009--LloydBockstruck--Nov17-2009--ThanksgivingGathering-357x261.jpg">
+    <published date="1519777235415" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777235000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2011--KarenMiller-Registrar--newMembersJoAnnBowman-DeniseCervantes_LizPierce-236x217.jpg">
+    <published date="1519777235478" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777235000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2011-BranchOfficers--Karen--Carol--Beverly--Pat--Ann-Hallie--Barbara--Karen-379x185.jpg">
+    <published date="1519777235196" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777235000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2011-RichardReimerAsMarkTwain--Feb26Meeting-133x205.jpg">
+    <published date="1519777234290" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777234000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2013-2015-BranchBoardofOfficers-569x203.jpg">
+    <published date="1519777235321" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777235000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2015--May26--BranchOfficers-Pic-569x234.jpg">
+    <published date="1526419251188" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419247000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2015--MayMeetingGovernorAnnFowler_GovGeneralBetsyJones-187x136.jpg">
+    <published date="1519848903737" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848905000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting--4-132x183.jpg">
+    <published date="1564072850506" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072851000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting--6-131x167.jpg">
+    <published date="1519848430767" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848432000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-10-MaryluMcKellar_StaceyBrowning-241x227.jpg">
+    <published date="1519777233774" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777233000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-10-MaryluMcKellar_StaceyBrowning2-230x218.jpg">
+    <published date="1600810760089" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1600810760000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-2-236x184.jpg">
+    <published date="1564072849525" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072850000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-8-349x238.jpg">
+    <published date="1519777233649" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777233000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2016--SeptMeeting-9--StaceyBrowning_JulieGustafson--BEST-322x267.jpg">
+    <published date="1519777233290" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777233000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2017--PeggyAnderson_Officer-Members-Conference-295x224.jpg">
+    <published date="1569527318360" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1569527328000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2017--PeggyAnderson_Officer-Members-Conference-300x230.jpg">
+    <published date="1519777233071" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777232000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2017--PeggyAnderson_Officer-Members-Conference-368x285.jpg">
+    <published date="1519777232946" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777232000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2018--DianeDyess_StaceyBrowning-131x170.jpg">
+    <published date="1519848428412" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848430000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2018--JanMeeting--4ladies-360x236.jpg">
+    <published date="1519848431142" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848432000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2018--PresenterOnWWII_WASP-WomenPilots5-15-2018-195x270.jpg">
+    <published date="1526419216891" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419213000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2018-JanMeeting-2-193x266.jpg">
+    <published date="1519848911811" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848913000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2018-JanMeeting-3-217x286.jpg">
+    <published date="1519848754168" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848755000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2019--May--IMG_9499-396x176.jpg">
+    <published date="1568841863510" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841862000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2019--May--IMG_9508-228x160.jpg">
+    <published date="1580163103767" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163104000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2019--May--IMG_9514--PeggyAnderson--PastGovPin--WEB-228x178.jpg">
+    <published date="1564078764690" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564078765000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2019--May--IMG_9517--InstallNewOfficers--WEB-540x223.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2019--May-NewGovernorCervantes--IMG_9511--WEB-188x178.jpg">
+    <published date="1564078749221" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564078750000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/20240326_110850-128x91.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/20240521_112846-227x157.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/20240521_112846-245x162.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/20240521_112916-199x143.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/20240521_114923-105x85.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/20240521_114955-121x156.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/20240521_124535-202x141.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/20240521_124559-122x84.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/3-NEWOfficers-2023-2025--3-641x363.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/3-Sharon_SandyWithGavel-257x193.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/397876780_10227861311336638_4186682377137391616_n-193x246.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/398607278_7056777691046914_7357895687642342657_n-172x179.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/398611858_7056777991046884_6260996777555988766_n-79x100.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/398630150_7056778181046865_4975369577279310808_n-108x100.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/398653918_10227861309176584_794561426848466115_n-63x89.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/400833034_7056776037713746_4650245209634608366_n-123x204.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/400854407_7056775901047093_909520827347510282_n-88x99.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/400900175_7056777167713633_2641725321642799820_n-208x204.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/445608510_10228878700330727_2522516831640068631_n-141x182.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/70257859_2620991197958941_8653415355391148032_n-222x147.jpg">
+    <published date="1580163104547" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163105000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/70313766_2620991377958923_5877804916583432192_n-166x131.jpg">
+    <published date="1568841861666" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841861000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/70389156_2620991511292243_4315766942146232320_n-248x208.jpg">
+    <published date="1568841861588" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841861000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/70691512_2620991137958947_4137598972720054272_n-133x182.jpg">
+    <published date="1580163103690" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163104000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/70898628_2620991064625621_4107036324744134656_n-230x148.jpg">
+    <published date="1580163103509" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163104000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/70917379_2620990307959030_9005225695793643520_n-183x135.jpg">
+    <published date="1580163104315" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163104000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/71325050_2620990754625652_5799859905930199040_n-177x208.jpg">
+    <published date="1580163103035" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163103000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/82940561_10218438679616734_5813652214148759552_n-181x252.jpg">
+    <published date="1580163103212" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163103000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/83478732_10218438676816664_1562237437013393408_n-156x191.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/83696119_10218438655336127_5940082350397325312_n-214x294.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/83756231_10218438666056395_3375403424853000192_n-119x171.jpg">
+    <published date="1580163101658" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163102000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Alderman--Bassett--Allen--Cervantes-298x216.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BarbaraChesney_StaceyBrowning--5-15-2018--ParkCityClub-197x150.jpg">
+    <published date="1526419248407" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419244000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-607x2241.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-607x2936.jpg">
+    <published date="1580163101829" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163102000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x1889.jpg">
+    <published date="1519777231821" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777231000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x1898.jpg">
+    <published date="1519777231696" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777231000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x2059.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BlueBox--1-610x2903.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Couple-1-162x137.jpg">
+    <published date="1580163101658" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163102000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/DianeCervantes_SandyBassett--5-2019-138x219.jpg">
+    <published date="1580163100719" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163101000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/DSSDP--Insignia--StaceyBrowning-120x270.jpg">
+    <published date="1519777231571" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777231000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Group1-264x186.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Group2-227x160.jpg">
+    <published date="1526419249579" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419245000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Group3-232x163.jpg">
+    <published date="1526419244876" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419241000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/GroupofLadies--2-226x169.jpg">
+    <published date="1580163101253" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163101000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/GroupShot--1-229x161.jpg">
+    <published date="1580163100899" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163101000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/InsigniaOnRibbon--NSSDP--Thin-68x200.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Ja_JamesAlderman-142x149.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/LadiesAtMeeting-244x138.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/LindaJuba--BEST-168x228.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MedalOfHonor--GroupMeetingPhoto-2-127x91.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Meeting--LadyDemostratesSpinningWheel-133x164.jpg">
+    <published date="1519777230509" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777230000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/MichaelHurleySpeaks--9-19-2023-74x99.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-112x130.jpg">
+    <published date="1519777230165" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777230000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/NSSDP--LOGO--INSIGNIA--300dpi-80x94.jpg">
+    <published date="1564096614027" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564096615000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/NSSDP--Meeting--PeggyAnderson_Husband-254x224.jpg">
+    <published date="1519848753913" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848755000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x1920.jpg">
+    <published date="1519777230524" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777230000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x1933.jpg">
+    <published date="1519777230368" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777230000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2088.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2279.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2933.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/OrangeBox--1-639x2960.jpg">
+    <published date="1580163099604" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163100000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/PatriciaMartin--Webmaster-138x143.jpg">
+    <published date="1564072850618" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072851000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/PeggyAndersonatMay2019Meeting--OutgoingBranchGovernor-150x206.jpg">
+    <published date="1558553246957" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1558553250000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/PeggyAndersonatMay2019Meeting--OutgoingBranchGovernor-172x233.jpg">
+    <published date="1568841858492" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841857000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/PeggyAnderson_PatriciaMartin-192x143.jpg">
+    <published date="1526419790757" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1526419787000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/PilgrimPresentation--Nov19-275x201.jpg">
+    <published date="1580164580495" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580164581000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Pilgrims--inHarbour-337x223.jpg">
+    <published date="1519849495721" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519849497000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Pilgrims--Thanksgiving--1620-419x252.jpg">
+    <published date="1519777229165" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777229000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Pilgrims--Thanksgiving--1620-422x273.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/PilgrimThanksgiving--2-374x222.jpg">
+    <published date="1569527319969" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1569527329000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/RichardMcCook-71x103.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/RollinPhipps_DeniseCervantes--Governor-182x216.jpg">
+    <published date="1568841858336" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568841858000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/SandyWithPlaque-208x265.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Sandy_SharonAllen9-19-2023-108x86.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Sandy_SharonAllen9-19-2023-187x144.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/SharonAllen--JennyPage--JamesAlderman--3-26-2024-122x89.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/SharonAllen_SandyBassett-184x139.jpg">
+    <published date="1580163100944" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163101000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/SharonAllen_WilliamCovington--11-14-2023-87x100.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/SharonTaylorAllen--May2024-BEST2-76x95.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/SpeakerAtThanksgiving-134x118.jpg">
+    <published date="1580164578709" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580164579000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/images/thumbnails">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/ToniWirth--SandyBassett--CarollHooper--BEST-2-173x200.jpg">
+    <published date="1519848903692" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848905000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/ToniWirth--SandyBassett--CarollHooper--BEST-2-276x315.jpg">
+    <published date="1519848767293" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519848768000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/ToniWirth-192x232.jpg">
+    <published date="1580163099186" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163100000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Treasurer_President-189x153.jpg">
+    <published date="1580163097128" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163097000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png">
+    <published date="1564072418016" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072418000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png">
+    <published date="1564072417495" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png">
+    <published date="1564072416435" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png">
+    <published date="1564072416375" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png">
+    <published date="1564072416379" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png">
+    <published date="1564072416615" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png">
+    <published date="1564072416211" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png">
+    <published date="1564072416464" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png">
+    <published date="1564072416552" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png">
+    <published date="1564072416918" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072418000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png">
+    <published date="1564072415929" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png">
+    <published date="1564072416986" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png">
+    <published date="1564072416421" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png">
+    <published date="1564072415760" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072416000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png">
+    <published date="1564072415536" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072416000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png">
+    <published date="1564072415901" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072417000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png">
+    <published date="1564072415643" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072416000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png">
+    <published date="1564072414750" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072415000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png">
+    <published date="1564072414270" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072415000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png">
+    <published date="1564072414496" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072414000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png">
+    <published date="1564072413852" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072414000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png">
+    <published date="1564072415552" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072415000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png">
+    <published date="1564072412166" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072412000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png">
+    <published date="1564072412222" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072413000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Untitled-1-228x123.jpg">
+    <published date="1580163097690" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163098000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Untitled-12-129x159.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/ValerieLaskowski--2017-108x167.jpg">
+    <published date="1564072849520" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072850000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-249x23.jpg">
+    <published date="1580163100651" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163101000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-272x24.jpg">
+    <published date="1580163100585" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163101000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-277x23.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-298x24.jpg">
+    <published date="1580163099324" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1580163100000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-348x23.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-422x1728.jpg">
+    <published date="1519777227165" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777227000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-425x285.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-425x478.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-550x343.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-555x255.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-555x370.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x204.jpg">
+    <published date="1519845069890" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519845071000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x208.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x453.jpg">
+    <published date="1519777226774" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777226000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x455.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x58.jpg">
+    <published date="1611694703854" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1611694703000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x71.jpg">
+    <published date="1519777227274" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777227000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-564x83.jpg">
+    <published date="1568842719012" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1568842718000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/WhiteBox--1-573x82.jpg">
+    <published date="1519777227587" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1519777227000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/preview">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/save">
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav">
+    <published date="1564072420453" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1564072421000" yahooId="daisy8tx@yahoo.com/us.6.p9" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-active-45526.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-inactive-45077.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-inactive-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-inactive-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-inactive-70667.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-inactive-45492.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-inactive-70727.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/MeetingPics2.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-active-99095.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-inactive-45518.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-mouseOver-70697.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-active-70712.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-mouseOver-99080.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/gray_bar/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-active-45474.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Officers.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-2-active-70682.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-3-mouseOver-70727.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-active-99065.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Membership.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-active-45501.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-mouseOver-45092.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Purpose.html"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/MeetingPics.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-8-active-45092.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-mouseOver-45483.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-active-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-4-mouseOver-70742.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-5-inactive-45466.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-7-mouseOver-45534.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/History.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/gray_bar/active.gif"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Meetings.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-6-mouseOver-45510.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-0-inactive-99035.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/TXBranch-NSSDP-1-mouseOver-99110.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/gray_bar/inactive.gif"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/TXBranch-NSSDP.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/TXBranch-NSSDP.png"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/2--SharonTaylorAllen--May2024-BEST.jpg">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2--SharonTaylorAllen--May2024-BEST-229x308.jpg">
+  </asset>
+</site>
